@@ -13,7 +13,8 @@ public class Class2 {
         // v2.0
     }
 
-    private void f3() {
-        // v3.0
+    public void f3() {
+        System.out.println("Fixed f3 in Class2");
     }
+
 }
